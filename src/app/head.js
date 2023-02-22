@@ -4,7 +4,7 @@ export default function Head() {
       <title>IMBD</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
       <meta name="description" content="This is the IMDB clone website" />
-      <link rel="icon" href="../public/favicon.ico" />
+      <link rel="icon" href="/favicon.ico" />
     </>
   )
 }
